@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTabLayout</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="menu">Menu</string>
+    <string name="materi_oop">Materi OOP</string>
+    <string name="materi_android">Materi Android</string>
+    <string name="home">Home</string>
+</resources>
